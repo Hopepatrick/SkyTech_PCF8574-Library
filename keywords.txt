@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map SkyTech_PCF8574
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SkyTech_PCF8574	KEYWORD1	SkyTech_PCF8574
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	        KEYWORD2
+configurePins	KEYWORD2
+readInputs	KEYWORD2
+readInputPin	KEYWORD2
+writeOutputs	KEYWORD2
+writeOutputPin	KEYWORD2
+configPinsDirection KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
